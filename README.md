@@ -20,7 +20,7 @@ pip install -U wxpython
 
 # How to 
 
-![alt text](https://scontent.fnak1-1.fna.fbcdn.net/v/t1.15752-9/48270613_286362345354642_1634720176979050496_n.png?_nc_cat=106&_nc_eui2=AeHSg_c40F6YuFNr9vh58kk4mXfmmIeTJLvkr1l2lifpRtGswJGO-ZBP-mTIdCyUEvXvybwE8sa981jw3M0_vx9XrPbAFTq3NptrXlLvT4JTRA&_nc_ht=scontent.fnak1-1.fna&oh=0d7c4a9e25f7bb8cb61f8352221b247e&oe=5CA7E8DB)
+![alt text](https://scontent.fbkk1-2.fna.fbcdn.net/v/t1.15752-9/48220599_2252499911671144_2457339991940923392_n.png?_nc_cat=110&_nc_eui2=AeHAa6d3FfIomeGqPlY2Hmk6pz3WdhSPG3O5qidX0gdAq4TS5hl3TRHbgP8vS5ES1kao9q14jDofDFdxPC3S6cnY4mxMzf74UXfzuoSioQiifw&_nc_ht=scontent.fbkk1-2.fna&oh=442ef787baa48a90be2ed1b4c86a9698&oe=5CA6A3CA)
 
 # Output
 
