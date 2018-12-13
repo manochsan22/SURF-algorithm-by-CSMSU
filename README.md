@@ -25,3 +25,7 @@ pip install -U wxpython
 # Output
 
 ![alt text](https://scontent.fnak1-1.fna.fbcdn.net/v/t1.15752-9/47688657_2143068755781041_6655331251429310464_n.png?_nc_cat=106&_nc_eui2=AeHB0DsyPE2iUKeAcVItx2J-FrlUgcvI21QZ5DCWVokF1aoiw4BDs98byMMYL4AemuQmtNG-L99IE2uNKBC_b7pN0TBJTGHlTUa0IDQd22rI-Q&_nc_ht=scontent.fnak1-1.fna&oh=4ad73f75008b25686af79cb8599889a2&oe=5C935195)
+
+# Developer
+-Suwandee Manoch
+-Ratchapansean Waranee
