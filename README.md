@@ -1,5 +1,5 @@
 # SURF-algorithm-by-CSMSU
-How to detect keypoit by SURF algorithm
+How to detect keypoint by SURF algorithm
 # Requirement
 # 1.Install python
 # set path of python
